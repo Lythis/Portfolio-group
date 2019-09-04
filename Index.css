@@ -1,3 +1,103 @@
-.hobbies{
-	left: 500px;
+.up_left
+{
+    font-family:  
+    float: left;
+    width: 280px;
+    background-color: #434b4f;
+    color: red;
+}
+
+.third
+{
+	line-height: 70%;
+    margin-left: 305px;
+    border: 0px solid blue;
+}
+
+.cv-avatar
+{
+	position: relative;
+	width: 185px;
+	height: 190px;
+	top: 12px;
+	left: 36px;
+	border-radius: 50%; 
+	border:	8px solid #0DBBD6;
+}
+
+.name
+{
+	margin: 0 auto;
+}
+
+.down_left 
+{	margin-left: 700px;
+	line-height: 140%;
+	float: left;
+    width: 280px;
+    background-color: #434b4f;
+    color: white;
+}
+
+.footer
+{
+    margin-top: 0;
+    float: left;
+    width: 100%;
+    bottom: 0;
+    height: 69px;
+    text-align: center;
+    background-color: #434b4f;
+}
+
+.skill_3
+{
+  float: left;
+  position: relative;
+  left : 20px;
+  color: white;
+}
+
+.hobbies {
+ 	width:900px;
+ 	height:150px;
+ 	padding:10px;
+}
+
+.hobbies > div {
+	float: right;
+	margin: 0px;
+}
+
+.hobbies_1
+{
+	margin-left:50px;
+
+}
+
+.hobbies_2
+{	
+	position: absolute;
+	margin-left: 0px;  	
+}
+
+.hobbies_3
+{
+   margin-left: 50px;
+}
+
+.skille
+{
+  	list-style: none;
+	line-height: 205%;
+}
+
+.check_1 li
+{
+  list-style: none;
+}
+
+body
+{
+  font-family: FreeMono, monospace;
 }
